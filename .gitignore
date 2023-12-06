@@ -46,7 +46,6 @@ gulpfile.tmp.*
 
 # Excludes generated
 # Excludes generated
-/dist
 /build
 /tmp
 /temp
